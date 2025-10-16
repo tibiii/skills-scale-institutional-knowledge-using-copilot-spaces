@@ -19,6 +19,13 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
+## Key Roles in Initiation
+- **Business Analyst**: Gathers initial requirements from stakeholders and documents them in the One-pager
+- **Product Manager**: Validates business value and defines success metrics
+- **Project Manager**: Coordinates stakeholder alignment, creates timeline, and facilitates decision gate
+- **UX/UI Designer**: Provides early design input on feasibility and user experience considerations (if applicable)
+- **Release Manager**: Reviews timeline for alignment with broader release schedule
+
 ## Project One-pager Template
 - Project name:
 - Problem statement:
@@ -30,11 +37,19 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Proposed team / roles:
 
 ## Initiation Checklist
-- [ ] One-pager completed and reviewed by Product Lead
+- [ ] One-pager completed and reviewed by Product Lead (Product Manager)
+- [ ] Business requirements gathered and documented (Business Analyst)
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
-- [ ] Decision: Approve to move into planning?
+- [ ] Initial UX considerations reviewed (UX/UI Designer, if applicable)
+- [ ] Timeline aligned with release schedule (Release Manager)
+- [ ] Decision: Approve to move into planning? (Project Manager + Product Manager)
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+
+## Handoff to Planning
+- **From**: Business Analyst provides requirements; Product Manager provides prioritization
+- **To**: Scrum Master and development team for detailed planning
+- **Artifacts**: Approved One-pager, stakeholder list, initial requirements
 
 ## Decision Gate
 Move to planning when:
