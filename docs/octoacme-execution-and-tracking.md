@@ -5,8 +5,36 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
+  - **Facilitated by:** Scrum Master or Project Manager
+  - **Attendees:** Developers, QA, UX/UI Designer (as needed)
 - Weekly delivery sync — show progress, updates, and flagged risks
+  - **Led by:** Project Manager
+  - **Attendees:** Product Manager, Tech Lead, stakeholders
 - Demo/Review at the end of each sprint or milestone
+  - **Facilitated by:** Scrum Master or Product Manager
+  - **Attendees:** Full team and stakeholders
+
+## Role Handoffs During Execution
+Understanding when and how work passes between roles:
+
+1. **Requirements → Design**: Product Manager/Business Analyst hands off requirements to UX/UI Designer
+   - Deliverables: User stories, acceptance criteria, user research insights
+   
+2. **Design → Development**: UX/UI Designer hands off designs to Developers
+   - Deliverables: Mockups, prototypes, design specs, asset files
+   - Review: Design feasibility discussion before implementation begins
+   
+3. **Development → QA**: Developers hand off completed features to QA/Testing
+   - Deliverables: Pull requests with test coverage, feature deployed to test environment
+   - Criteria: Code reviewed and merged, unit tests passing
+   
+4. **QA → Release**: QA hands off validated features to Release Manager
+   - Deliverables: Test results, sign-off on acceptance criteria
+   - Criteria: All tests passing, no critical bugs
+   
+5. **Release → Support**: Release Manager hands off deployed changes to Support Lead
+   - Deliverables: Release notes, known issues, FAQs, training materials
+   - Timing: At least 24-48 hours before production deployment
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
