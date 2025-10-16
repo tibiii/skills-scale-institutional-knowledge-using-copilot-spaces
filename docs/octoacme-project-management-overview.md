@@ -14,11 +14,16 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- **Project Manager (PM)**: coordinates delivery, schedules, risk, communications
+- **Product Manager (PdM)**: defines outcomes, prioritizes backlog, and measures success
+- **Scrum Master**: facilitates agile ceremonies, removes impediments, coaches team
+- **Business Analyst**: gathers requirements, documents acceptance criteria, validates solutions
+- **UX/UI Designer**: creates user-centered designs, ensures usability and accessibility
+- **Developers**: implement features, collaborate on design and testability
+- **QA/Testing**: validate quality and acceptance criteria
+- **Release Manager**: coordinates release planning, deployment, and go-live activities
+- **Support Lead**: represents customer voice, prepares support teams for releases
+- **Stakeholders**: provide inputs and approvals
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -36,9 +41,11 @@ Applies to all cross-functional projects that deliver product features, services
 5. Close & Retrospective: capture learnings and next steps.
 
 ## Communication Cadence
-- Weekly sync between PM + PdM
-- Twice-weekly standups for delivery team (or as agreed)
-- Monthly stakeholder updates
+- Daily standups facilitated by Scrum Master
+- Weekly sync between PM + PdM + Scrum Master
+- Bi-weekly demos and sprint reviews
+- Monthly stakeholder updates from Project Manager
+- Pre-release briefings by Release Manager and Support Lead
 - Ad-hoc escalations as needed
 
 ## How to use these docs
